@@ -5,6 +5,12 @@ This is a curated list of hackathon resources.  Note that these resources are no
 * https://balsamiq.com - Create wireframes
 * https://www.figma.com/ - One of the more popular UI design tools
 * https://zeplin.io/ - Create high fidelity designs
+* https://www.flaticon.com/ - Access 7.6M+ vector icons & stickers
+* https://dribbble.com/ - Get inspired by the world’s leading design portfolios
+* https://uiuxjobsboard.com/random-users-generator - Generate random users for a realistic mockup
+
+## APIs
+* https://github.com/public-apis/public-apis - A collective list of free APIs for use in software and web development
 
 ## AR/VR Tools
 * https://studio.vuforia.com/ - Get started in AR quickly. Use Vuforia App to view your AR experience without having to deploy your own app./break
