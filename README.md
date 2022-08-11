@@ -20,6 +20,8 @@ This is a curated list of hackathon resources.  Note that these resources are no
 * https://zap.works/ - Another platform that enables quick, low or no code AR development. Zapworks offers their Studio tool for more advanced interactions with scripting, and their Designer and Widget tools targeted at beginners. AR experiences can be deployed and viewed via their Zappar AR app for iOS and Android or you can build your own custom app.
 * https://www.sparkar.com/ar-studio/ - Facebook's low code AR platform. Experiences are focused on social media.
 * https://lensstudio.snapchat.com/ - Snapchat's low code AR platform. Similar to Spark AR, this platform is targeted at social media engagement.
+* https://www.blippar.com/ - Browser based AR builder with support for world, marker, and surface AR experiences.  You can deploy experiences via the Blippar WebAR SDK, Web "Blippbuilder", or dedicated app.
+* https://www.8thwall.com/ - Web based AR with a free trial
 
 ## Voice Tools
 * https://developer.amazon.com/alexa - Amazon's Alexa development platform. Alexa skills can be built with little or no code using this platform. More advanced skills can be developed using AWS Lambda functions to provide fulfillment of user intents. A product locator skill might call out to a product API to get the location of a product based on the user's input for example.
