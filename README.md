@@ -67,3 +67,8 @@ Creative Assets
 
 ## Tech Talk Resources
 * Create a free database with Fly.io https://github.com/brianacowles/hacking-with-fly
+* Local for installing WordPress locally: https://localwp.com/
+* DigitalOcean for WordPress VPS hosting: https://digitialocean.com
+* WordPress docs https://wordpress.org
+* WordPress articles and info (Mark Foster's site) htttps://fireflywp.com
+
