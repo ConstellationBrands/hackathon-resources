@@ -70,5 +70,4 @@ Creative Assets
 * Local for installing WordPress locally: https://localwp.com/
 * DigitalOcean for WordPress VPS hosting: https://digitialocean.com
 * WordPress docs https://wordpress.org
-* WordPress articles and info (Mark Foster's site) htttps://fireflywp.com
-
+* WordPress articles and info (Mark Foster's site) https://fireflywp.com
