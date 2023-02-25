@@ -64,3 +64,6 @@ Creative Assets
 * Ruffino https://www.ruffino.com/
 * The Prisoner Wine Company https://www.theprisonerwinecompany.com/
 * Cooper & Thief https://www.cooperandthief.com/
+
+## Tech Talk Resources
+* Create a free database with Fly.io https://github.com/brianacowles/hacking-with-fly
